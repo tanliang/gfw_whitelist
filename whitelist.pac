@@ -204,6 +204,7 @@ var white_domains = {"am":{
 },"com":{
 "btsmth":1,
 "dapenti":1,
+"macshuo":1,
 "0-6":1,
 "0001688":1,
 "001cndc":1,
