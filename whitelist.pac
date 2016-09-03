@@ -8,7 +8,11 @@ var ip_proxy = "DIRECT;";
  * https://github.com/breakwa11/gfw_whitelist
  */
 
-var white_domains = {"am":{
+var white_domains = {
+"dev":{
+"tl":1
+},
+"am":{
 "126":1,
 "51":1
 },"biz":{
